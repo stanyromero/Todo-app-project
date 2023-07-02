@@ -1,7 +1,8 @@
 # Todo-app-project
 Todo app with Springboot 
 
-Tech-stacks used
+Tech-stacks used,
+
    Spring
    Spring boot
    Spring Security
